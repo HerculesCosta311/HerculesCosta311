@@ -11,7 +11,7 @@ Estudante de Ciência de Dados em formação, com interesse em transformar dados
 + Modelos de machine learning aplicados a problemas reais
 
 🔗 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hercules-costa-6282062b3/)
 [![Email](https://img.shields.io/badge/-herculescosta1303@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:herculescosta1303@gmail.com)
 
 ---
